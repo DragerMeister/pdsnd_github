@@ -16,5 +16,5 @@ This project is designed to help students learn how to use Git
 Bikeshare v2_4
 
 ### Credits
-There are toom many pages to reference each one. https://stackoverflow.com was immensely helpful.
+There are too many pages to reference each one. https://stackoverflow.com was immensely helpful.
 
